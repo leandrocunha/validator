@@ -4,8 +4,8 @@ The idea is validate forms easier without missing the flexibility.
 
 So first we import the module and call validator method, like below:
 
-```
-import serializar from 'form-serialize';
+```javascript
+import serialize from 'form-serialize';
 import Validator from 'validator';
 
 ...
